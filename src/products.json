@@ -1,0 +1,66 @@
+[
+  {
+    "id": 0,
+    "name": "iPhone",
+    "picture": "images/iphone.jpg",
+    "version": 11,
+    "style": "iPhone 11 Pro",
+    "location": "Lisco, Alabama"
+  },
+  {
+    "id": 1,
+    "name": "iPad",
+    "picture": "images/iPad.jpg",
+    "version": 8,
+    "style": "Apple iPad Air",
+    "location": "Tooleville, West Virginia"
+  },
+  {
+    "id": 2,
+    "name": "Laptop",
+    "picture": "images/laptop.jpg",
+    "version": 9,
+    "style": "Macbook Pro 9",
+    "location": "Freeburn, Idaho"
+  },
+  {
+    "id": 3,
+    "name": "Backpack",
+    "picture": "images/backpack.jpg",
+    "version": 2,
+    "style": "BackPack",
+    "location": "Camas, Pennsylvania"
+  },
+  {
+    "id": 4,
+    "name": "Laptop",
+    "picture": "images/laptop.jpg",
+    "version": 9,
+    "style": "Macbook Pro 9",
+    "location": "Gerber, South Dakota"
+  },
+  {
+    "id": 5,
+    "name": "iPad",
+    "picture": "images/iPad.jpg",
+    "version": 3,
+    "style": "Apple iPad Air",
+    "location": "Innsbrook, Illinois"
+  },
+  {
+    "id": 6,
+    "name": "Backpack",
+    "picture": "images/backpack.jpg",
+    "version": 2,
+    "style": "BackPack",
+    "location": "Soudan, Louisiana"
+  },
+  {
+    "id": 7,
+    "name": "Laptop",
+    "picture": "images/laptop.jpg",
+    "version": 9,
+    "style": "MacBook Pro 9",
+    "location": "Jacksonwald, Palau"
+  }
+]
